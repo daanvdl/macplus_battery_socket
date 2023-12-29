@@ -1,8 +1,9 @@
 # Macintosh 128k/512k/Plus 14500 battery-socket
 
-## What?
+## What
 This printable is a drop-in replacement for the Macintosh 128k/512k/Plus batterysocket.
 Also known as part "CAPETRONIC DS 1011" and "815-0727-B".
+This replacement batterysocket is based on a 14500 3.7V rechargeable battery which is enough to keep the clock running and save the PRAM settings.
 
 ## Location
 The location of the switch is marked as "B1".
@@ -13,7 +14,7 @@ The location of the switch is marked as "B1".
 - [x] Print with 15% infill. Support not needed, but can be used.
 
 ## Used parts
-- [x] 3.7v 14500 battery (rechargeable) 
+- [x] 3.7V 14500 battery (rechargeable) 
 - [x] 1AA/14500 socket [Link (20pc)](https://nl.aliexpress.com/item/1005004854188605.html)
 - [x] 2x 8MM M3 flathead bolt [Link](https://nl.aliexpress.com/item/1005004086739002.html)
 - [x] 2x M3 (hex)nut [Link](https://nl.aliexpress.com/item/1005003780212966.html)
