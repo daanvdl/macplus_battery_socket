@@ -24,7 +24,8 @@ The location of the switch is marked as "B1".
 ## How to
 - Print the model.
 - Solder on each ends of the 14500 socket a 25mm 18AWG wire.
-- Insert the batterysocket into the printed bracket, and bend the 18AWG wires 90 degrees downwards into the slot on the backside of the bracket.
+- Insert the batterysocket into the printed bracket and guide the wires through the holes the the backside. Mind the polarity. PLUS(+) is on the left seen from the front of the printer bracket.
+- Bend the 18AWG wires 90 degrees downwards into the slot on the backside of the bracket.
 - Fix the batterysocket with 2x flathead 8MM M3 blots.
 - Place the bracket on the board, guide the two wires into the analogboard solderpads, and secure it with 3 3x8MM screws to the analogboard.
 - Solder the leads to the analogboard.
