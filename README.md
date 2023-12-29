@@ -6,7 +6,7 @@ Also known as part "CAPETRONIC DS 1011" and "815-0727-B".
 This replacement batterysocket is based on a 14500 3.7V rechargeable battery which is enough to keep the clock running and save the PRAM settings.
 
 ## Location
-The location of the switch is marked as "B1".
+The location of the batterysocket is marked as "B1" on the analogboard.
 
 <img src="images/location.jpg" width="50%">
 
